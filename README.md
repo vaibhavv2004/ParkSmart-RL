@@ -40,14 +40,7 @@ The ParkSmart-RL project implements an intelligent parking slot selection system
 ![Simulation Demo](Screenshot 2025-10-13 115026.png)  
 *Agent autonomously selects high-reward (green) slots*
 
-**Ref 2: Reward Heatmap Visualization**  
-![Heatmap](screenshots/heatmap.png)  
-*Red-to-green gradient shows learned slot values*
 
-**Ref 3: Training Progress (Reward Curve)**  
-![Training](screenshots/reward_curve.png)  
-*Average reward increases over 15,000 timesteps*
-
-**Ref 4: Interactive Controls & Info Panel**  
+**Ref 2: Interactive Controls & Info Panel**  
 ![Controls](screenshots/controls_info.png)  
 *Episode count, last reward, and selected slot details*
