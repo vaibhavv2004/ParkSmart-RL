@@ -43,3 +43,9 @@ The ParkSmart-RL project implements an intelligent parking slot selection system
 **Ref 2: Interactive Controls & Info Panel**  
 (https://github.com/vaibhavv2004/ParkSmart-RL/blob/main/Screenshot%202025-10-13%20115654.png)
 *Episode count, last reward, and selected slot details*
+
+Reporting
+Finally, all findings were documented, including detailed descriptions of vulnerabilities, exploits, and remediation recommendations.
+
+**Ref 5: Final Project Report**
+
