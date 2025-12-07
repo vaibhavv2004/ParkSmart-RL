@@ -36,7 +36,7 @@ The ParkSmart-RL project implements an intelligent parking slot selection system
 ### Demo Screenshots  
 
 **Ref 1: Parking Environment & Trained Agent in Action**  
-![Simulation Demo](Screenshot 2025-10-13 115026.png)  
+![Simulation Demo](https://github.com/vaibhavv2004/ParkSmart-RL/blob/main/Screenshot%202025-10-13%20115026.png))  
 *Agent autonomously selects high-reward (green) slots*
 
 
