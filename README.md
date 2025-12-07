@@ -47,5 +47,9 @@ The ParkSmart-RL project implements an intelligent parking slot selection system
 Reporting
 Finally, all findings were documented, including detailed descriptions of vulnerabilities, exploits, and remediation recommendations.
 
-**Ref 5: Final Project Report**
+**Ref 3: Final Project Report**
+https://github.com/vaibhavv2004/ParkSmart-RL/blob/main/PROJECT%20REPORT.docx
+
+**Ref 4: Coding part**
+
 
