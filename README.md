@@ -19,7 +19,6 @@ The ParkSmart-RL project implements an intelligent parking slot selection system
 - **Gymnasium** – RL environment framework  
 - **Pygame** – Real-time visualization engine  
 - **NumPy** – State processing and normalization  
-- **Matplotlib** (optional) – Training reward plotting  
 
 ### Key Features  
 - 12-slot dynamic parking environment with random cost, distance & occupancy  
